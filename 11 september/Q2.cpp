@@ -7,9 +7,9 @@ using namespace std;
 string checkDayType(string Day) {
 
     transform(Day.begin(), Day.end(), Day.begin(), ::tolower);
-    if (Day == "saturday" || Day == "sunday") {
+    if ( Day == "sunday") {
         return "Weekend";
-    } else if (Day == "monday" || Day == "tuesday" || Day == "wednesday" || Day == "thursday" || Day == "friday") {
+    } else if (Day == "monday" || Day == "tuesday" || Day == "wednesday" || Day == "thursday" || Day == "friday" || Day == "saturday" ) {
         return "Weekday";
     } else {
         return "Invalid day";
