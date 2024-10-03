@@ -16,7 +16,7 @@ void A(){
     }
 }
 int main(){
-    int a,b,c,avg;
+    int a, b, c, avg;
     cout<<"Enter any 3 number:";
     cin>>a>>b>>c;
     int sum=a+b+c;
