@@ -12,7 +12,7 @@ void square(int s){
 void add(int a,int b){
     int sum=a+b;
     cout<<"Sum= "<<sum<<endl;
-    if(sum%2!=0){
+    if (sum%2!=0) {
         square(sum);
     }
 }
