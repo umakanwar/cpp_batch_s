@@ -1,6 +1,6 @@
-// User se 2 input lena hai, inka product nikalna hai. Agar product < 50 hota hai to ek
-// function call karna hai, jisme product aur ek user input ko add karna hai aur result ko
-// cout<< karna hai. Agar cout<<ed value odd hai to ek aur function call karke us value
+// User se 2 input lena hai, inka product nikalna hai. Agar  product < 50 hota hai to ek
+// function call karna hai, jisme product aur ek user input ko add  karna hai aur result ko
+// cout<< karna hai. Agar cout<<ed value odd hai to ek aur function  call karke us value
 //  ko square karna hai aur result cout<< karna hai.
 
 #include <bits/stdc++.h>
