@@ -1,6 +1,6 @@
-// User se 4 input lena hai, inka sum nikalna hai. Agar sum > 100 hota hai to ek function
-// call karna hai, jisme 3 input lena hai aur unka average cout<< karna hai. Agar cout<<ed average > 50 hai to ek aur function
-// call karke factorial nikalna hai aur check karna hai wo prime fact hai ya nahi.
+// User se 4 input lena hai, inka sum nikalna  hai. Agar sum > 100 hota hai to ek function
+// call karna hai, jisme 3 input lena hai aur  unka average cout<< karna hai. Agar cout<<ed average > 50 hai to ek aur function
+// call karke factorial nikalna hai aur check  karna hai wo prime fact hai ya nahi.
 
 #include <bits/stdc++.h>
 using namespace std;
