@@ -1,6 +1,6 @@
 // 3 input lena hai usme se jo max hoga agr wo b hota hai to 
-// ek function call karna hai aur us function mai 5 ka factorial print karwana ,
-//  max agar c hota hai to fir c powerof2 ha ya nahi check
+// ek function call karna hai aur us function  mai 5 ka factorial print karwana ,
+//  max agar c hota hai to fir c powerof2  ha ya nahi check
 //   karna hai, agr max a hota hai to fir apna nam print karna hai.
 
 #include <bits/stdc++.h>
