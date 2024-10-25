@@ -1,0 +1,1 @@
+: Overload a function toUpper to convert a lowercase character to uppercase and a lowercase string to uppercase. Write a program to test both cases.
